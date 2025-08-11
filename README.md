@@ -4,12 +4,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Pedro Felipe
+Matricula: 000000
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Brasão da PUC](images/brasao_puc.png)
 
 ## Tela de projeto no Replit
 
